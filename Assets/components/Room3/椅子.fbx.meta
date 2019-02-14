@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 6938e00fad8e7344bb1c488261243c70
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Straight_Leg_Chair_Honey_V1:Box695
+    100002: Straight_Leg_Chair_Honey_V1:Box696
+    100004: Straight_Leg_Chair_Honey_V1:Box697
+    100006: Straight_Leg_Chair_Honey_V1:Box698
+    100008: Straight_Leg_Chair_Honey_V1:Box699
+    100010: Straight_Leg_Chair_Honey_V1:Box700
+    100012: Straight_Leg_Chair_Honey_V1:Box701
+    100014: Straight_Leg_Chair_Honey_V1:Box702
+    100016: Straight_Leg_Chair_Honey_V1:Box703
+    100018: Straight_Leg_Chair_Honey_V1:Box704
+    100020: Straight_Leg_Chair_Honey_V1:Box705
+    100022: Straight_Leg_Chair_Honey_V1:Box706
+    100024: Straight_Leg_Chair_Honey_V1:transform1
+    100026: Straight_Leg_Chair_Honey_V1:transform10
+    100028: Straight_Leg_Chair_Honey_V1:transform11
+    100030: Straight_Leg_Chair_Honey_V1:transform2
+    100032: Straight_Leg_Chair_Honey_V1:transform3
+    100034: Straight_Leg_Chair_Honey_V1:transform4
+    100036: Straight_Leg_Chair_Honey_V1:transform5
+    100038: Straight_Leg_Chair_Honey_V1:transform6
+    100040: Straight_Leg_Chair_Honey_V1:transform7
+    100042: Straight_Leg_Chair_Honey_V1:transform8
+    100044: Straight_Leg_Chair_Honey_V1:transform9
+    100046: //RootNode
+    400000: Straight_Leg_Chair_Honey_V1:Box695
+    400002: Straight_Leg_Chair_Honey_V1:Box696
+    400004: Straight_Leg_Chair_Honey_V1:Box697
+    400006: Straight_Leg_Chair_Honey_V1:Box698
+    400008: Straight_Leg_Chair_Honey_V1:Box699
+    400010: Straight_Leg_Chair_Honey_V1:Box700
+    400012: Straight_Leg_Chair_Honey_V1:Box701
+    400014: Straight_Leg_Chair_Honey_V1:Box702
+    400016: Straight_Leg_Chair_Honey_V1:Box703
+    400018: Straight_Leg_Chair_Honey_V1:Box704
+    400020: Straight_Leg_Chair_Honey_V1:Box705
+    400022: Straight_Leg_Chair_Honey_V1:Box706
+    400024: Straight_Leg_Chair_Honey_V1:transform1
+    400026: Straight_Leg_Chair_Honey_V1:transform10
+    400028: Straight_Leg_Chair_Honey_V1:transform11
+    400030: Straight_Leg_Chair_Honey_V1:transform2
+    400032: Straight_Leg_Chair_Honey_V1:transform3
+    400034: Straight_Leg_Chair_Honey_V1:transform4
+    400036: Straight_Leg_Chair_Honey_V1:transform5
+    400038: Straight_Leg_Chair_Honey_V1:transform6
+    400040: Straight_Leg_Chair_Honey_V1:transform7
+    400042: Straight_Leg_Chair_Honey_V1:transform8
+    400044: Straight_Leg_Chair_Honey_V1:transform9
+    400046: //RootNode
+    2100000: lambert3
+    2300000: Straight_Leg_Chair_Honey_V1:Box706
+    3300000: Straight_Leg_Chair_Honey_V1:Box706
+    4300000: Straight_Leg_Chair_Honey_V1:Box706
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

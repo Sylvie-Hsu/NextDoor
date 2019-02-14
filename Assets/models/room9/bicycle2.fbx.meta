@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 044c6e38b51fd8f4bbf0b07965f6a1c9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bicycle:Box001
+    100004: bicycle:Box002
+    100006: bicycle:Box004
+    100008: bicycle:Box006
+    100010: bicycle:Box007
+    100012: bicycle:Circle045
+    100014: bicycle:Circle046
+    100016: bicycle:Cylinder001
+    100018: bicycle:Cylinder002
+    100020: bicycle:Cylinder003
+    100022: bicycle:Cylinder004
+    100024: bicycle:Cylinder005
+    100026: bicycle:Cylinder007
+    100028: bicycle:Cylinder008
+    100030: bicycle:Cylinder009
+    100032: bicycle:Cylinder010
+    100034: bicycle:Line003
+    100036: bicycle:NGon001
+    100038: bicycle:NGon002
+    100040: bicycle:NGon003
+    100042: bicycle:NGon004
+    100044: bicycle:Object
+    100046: bicycle:Object001
+    100048: bicycle:Object002aa
+    100050: bicycle:Object003
+    100052: bicycle:transform1
+    100054: bicycle:transform10
+    100056: bicycle:transform11
+    100058: bicycle:transform12
+    100060: bicycle:transform13
+    100062: bicycle:transform14
+    100064: bicycle:transform15
+    100066: bicycle:transform16
+    100068: bicycle:transform17
+    100070: bicycle:transform18
+    100072: bicycle:transform19
+    100074: bicycle:transform2
+    100076: bicycle:transform20
+    100078: bicycle:transform21
+    100080: bicycle:transform22
+    100082: bicycle:transform23
+    100084: bicycle:transform24
+    100086: bicycle:transform3
+    100088: bicycle:transform4
+    100090: bicycle:transform5
+    100092: bicycle:transform6
+    100094: bicycle:transform7
+    100096: bicycle:transform8
+    100098: bicycle:transform9
+    400000: //RootNode
+    400002: bicycle:Box001
+    400004: bicycle:Box002
+    400006: bicycle:Box004
+    400008: bicycle:Box006
+    400010: bicycle:Box007
+    400012: bicycle:Circle045
+    400014: bicycle:Circle046
+    400016: bicycle:Cylinder001
+    400018: bicycle:Cylinder002
+    400020: bicycle:Cylinder003
+    400022: bicycle:Cylinder004
+    400024: bicycle:Cylinder005
+    400026: bicycle:Cylinder007
+    400028: bicycle:Cylinder008
+    400030: bicycle:Cylinder009
+    400032: bicycle:Cylinder010
+    400034: bicycle:Line003
+    400036: bicycle:NGon001
+    400038: bicycle:NGon002
+    400040: bicycle:NGon003
+    400042: bicycle:NGon004
+    400044: bicycle:Object
+    400046: bicycle:Object001
+    400048: bicycle:Object002aa
+    400050: bicycle:Object003
+    400052: bicycle:transform1
+    400054: bicycle:transform10
+    400056: bicycle:transform11
+    400058: bicycle:transform12
+    400060: bicycle:transform13
+    400062: bicycle:transform14
+    400064: bicycle:transform15
+    400066: bicycle:transform16
+    400068: bicycle:transform17
+    400070: bicycle:transform18
+    400072: bicycle:transform19
+    400074: bicycle:transform2
+    400076: bicycle:transform20
+    400078: bicycle:transform21
+    400080: bicycle:transform22
+    400082: bicycle:transform23
+    400084: bicycle:transform24
+    400086: bicycle:transform3
+    400088: bicycle:transform4
+    400090: bicycle:transform5
+    400092: bicycle:transform6
+    400094: bicycle:transform7
+    400096: bicycle:transform8
+    400098: bicycle:transform9
+    2100000: lambert1
+    2300000: bicycle:Object003
+    3300000: bicycle:Object003
+    4300000: bicycle:Object003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
